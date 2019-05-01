@@ -1,0 +1,12 @@
+﻿{
+  "Home": {
+    "load_No": "German #",
+    "Shipper": "Shipper",
+    "Consignee": "Consignee",
+    "LastStop": "Last Stop",
+    "NextStop": "Next Stop"
+  },
+  "user_profile": {
+    "title": "Your Profile"
+  }
+}

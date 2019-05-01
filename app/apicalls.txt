@@ -1,0 +1,55 @@
+Verify/Register Device:[DONE]
+http://globalapi.meltonwebservices.com/V1/VerifyDevice?DeviceUniqueId=B69096D71660
+login:[DONE]
+http://sectranapi.meltonwebservices.com/V1/LogIn
+home data:[DONE]
+http://sectranapi.meltonwebservices.com/V1/GetDriverHome
+current HOS[DONE]
+http://sectranapi.meltonwebservices.com/V1/GetCurrentDriverHOS
+For Active Trips [DONE]
+http://sectranapi.meltonwebservices.com/V1/GetDriverTrips
+To Mark Checkcall [DONE]
+http://sectranapi.meltonwebservices.com/V1/MarkCheckCall?StopId=30938
+Check Calls of Trip - [DONE]
+http://sectranapi.meltonwebservices.com/V1/GetTripCheckCalls?TripId=3393
+HOS History List
+http://sectranapi.meltonwebservices.com/V1/GetDriverHOSList
+Get Checkcall By ID [DONE]
+http://sectranapi.meltonwebservices.com/V1/GetCheckCallById?Id=30936
+Get Messages:
+http://sectranapi.meltonwebservices.com/V1/GetDriverMessages
+Post Message:
+http://sectranapi.meltonwebservices.com/V1/SaveDriverMessage?Id=0
+in formbody : Message
+
+
+apk password: horizon123
+
+
+
+{
+  "name": "Horizon",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.16.3",
+    "react": "15.3.1",
+    "react-native": "^0.33.0",
+    "react-native-button": "^1.7.0",
+    "react-native-calendar-strip": "^0.1.0",
+    "react-native-circular-progress": "0.0.7",
+    "react-native-device-info": "^0.9.5",
+    "react-native-drawer": "^2.3.0",
+    "react-native-gifted-chat": "0.0.10",
+    "react-native-list-view-select": "^1.0.4",
+    "react-native-loading-spinner-overlay": "^0.3.0",
+    "react-native-modal-datetime-picker": "^1.0.2",
+    "react-native-progress": "^3.1.0",
+    "react-native-router-flux": "^3.35.0",
+    "react-native-selectme": "^1.2.0",
+    "react-native-vector-icons": "^2.1.0"
+  }
+}

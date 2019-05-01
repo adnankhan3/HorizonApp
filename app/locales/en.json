@@ -1,0 +1,195 @@
+﻿{
+  "Home": {
+    "load_No": "Load #:",
+    "Shipper": "Shipper:",
+    "Consignee": "Consignee:",
+    "LastStop": "Last Stop:",
+    "NextStop": "Next Stop",
+    "Tractor": "Tractor:",
+    "Trailer": "Trailer:",
+    "Type":"Type:",
+    "Status":"Status:",
+    "Previous_Location":"Previous Location: ",
+    "Location":"Location: ",
+    "Current_Location":"Location: ",
+    "Miles":"Miles: ",
+    "Miles_Type":"Miles Type: ",
+    "Rate":"Rate:",
+    "Pickup_No":"Pickup #",
+    "Driving":"Driving",
+    "On_Duty":"On Duty",
+    "btn_Complete":"Complete",
+    "btn_Comment":"Comment",
+    "btn_Edit":"Edit",
+    "PendingStatus": "PENDING",
+    "CompletedStatus": "COMPLETED",
+    "Loaded_Miles": "LOADED",
+    "Empty_MIles": "EMPTY",
+    "Mark_Check_Call_Msg":"Are you sure you want to mark this check call Completed?",
+    "Confirmation":"Confirmation",
+    "Update_Trailer_Message":"Are you sure you want to Update Trailer?",
+    "Mark_Check_Call_Success_Msg":"Checkcall has been marked successfully.",
+    "New_Check_Call_Save_Msg": "Check Call Saved successfully.",
+    "Del_Product_Msg":"Are you sure you want to remove this product?",
+    "Drop_Trailer_Msg":"Are you sure you want to Drop Trailer?",
+    "Drop_Loaded_Trailer_Msg":"Are you sure you want to Drop Loaded Trailer at Delivery?",
+    "Drop_Empty_Trailer_Msg":"Are you sure you want to Drop Empty Trailer?",
+    "btn_Save":"Save",
+    "btn_Cancel":"Cancel",
+    "btn_Drop_Empty_Trailer":"Drop Empty Trailer",
+    "btn_Drop_Trailer":"Drop Trailer",
+    "btn_Drop_Loaded_Trailer":"Drop Loaded Trailer",
+    "btn_Signature":"Signature",
+    "btn_Attach_Doc":"Attach Pic/Doc",
+    "Msg_Save_Document":"Are you sure you want to Save Document?"
+
+    
+  },
+  "Drawer": {
+    "Trips": "Trips",
+    "Schedule":"Schedule",
+    "Logout":"Logout"
+
+  },
+
+   "Signature": {
+    "btn_Save": "Save",
+    "btn_Reset":"Reset"
+    
+
+  },
+ "Login":{
+
+  "btn_Sign_In":"SIGN IN",
+  "UserName":"User Name",
+  "Password":"Password",
+  "msg_Invalid":"Invalid User Name or Password"
+
+ },
+ "Register":{
+
+  "btn_Register":"REGISTER DEVICE"
+
+ },
+
+   "HOS": {
+    "Cycle_Duty_Hrs": "Cycle Duty Hrs: ",
+    "Daily_Duty_Hrs":"Daily Duty Hrs: ",
+    "Driver_Time_Hrs":"Driver Time Hrs: ",
+    "As_On":"As On",
+    "Cycle_Duty_Hrs_Used":"Cycle Duty Hrs Used :",
+    "Daily_Duty_Hrs_Used":"Daily Duty Hrs Used :",
+    "Driver_Available_Hrs":"Driver Available Hrs: ",
+    "Cycle_Avaialble_Hrs":"Cycle Available Hrs: ",
+    "Pickup_Second_Day":"Pickup Second Day: "
+
+  },
+
+  "Launch": {
+    "Home": "Home",
+    "CheckCalls":"Check Calls",
+    "Messages":"Messages",
+    "HOS":"Hour of Services",
+    "Schedule":"Schedule",
+    "EditCheckCall": "Edit CheckCall",
+    "Trips":"Trips",
+    "Trip_Detail":"Trip Details",
+    "CheckCall":"Check Call",
+    "Check_Call_Details":"Check Call Details",
+    "Add_Signature":"Add Signature",
+    "Add_Document":"Attach Document",
+    "View_Doc_Title":"View Docs/Pics"
+
+
+  },
+   "EditCheckCall": {
+    "Type": "Type",
+    "Wait_Time":"Wait Time: ",
+    "Address":"Address: ",
+    "btn_Add_Product":"Add Product",
+    "Product": "Product",
+    "Pieces":"Pieces",
+    "Weight":"Weight",
+    "Save_CheckCall":"Save CheckCall",
+    "Save":"Save",
+    "Cancel":"Cancel",
+    "Add_Product":"Add"
+
+  },
+
+
+
+ "AddCheckCall": {
+    "Type": "Type",
+    "Wait_Time":"Wait Time: ",
+    "Address":"Address: ",
+    "btn_Add_Product":"Add Product",
+    "Product": "Product",
+    "Pieces":"Pieces",
+    "Weight":"Weight",
+    "Save_CheckCall":"Save CheckCall",
+    "Save":"Save",
+    "Cancel":"Cancel",
+    "Street": "Street",
+    "City":"City",
+    "State":"State",
+    "Zip":"Zip",
+    "Select_Product":"Select Product",
+    "Select_State":"Select State",
+    "Select_Type":"Select Type",
+    "Select_Date":"Select Date"
+
+  },
+
+
+  "CheckCallDetails": {
+    "Schedule_Date": "Schedule Date: ",
+    "Tractor_No":"Tractor #: ",
+    "Trailer_No":"Trailer #: ",
+    "Check_Call_Date":"Check Call Date: ",
+    "Load_No": "Load #: ",
+    "Type":"Type",
+    "Previous_Location":"Previous Location: ",
+    
+    "Current_Location":"Location: ",
+    "Miles_Type":"Miles Type: ",
+    "btn_Edit":"Edit",
+    "btn_Complete":"Complete",
+    "Error":"Something went Wrong. Please try again later. Thank you!",
+    "PickupNo":"Ref #:",
+    "DeliveryNo":"Delivery #:",
+    "PickupDetail":"Instructions:",
+    "DeliveryDetail":"Delivery Instruction:",
+    "PickupCustomer":"Customer:",
+    "DeliveryCustomer":"Delivery Customer:",
+    "PickupLocation":"Pickup Address:",
+    "DeliveryLocation":"Delivery Address:",
+
+    "PickupDate":"Pickup Date:",
+    "DeliveryDate":"Delivery Date:"
+
+
+  },
+
+
+ "CheckCallList": {
+    "Load_No": "Load #: ",
+    "Shipper":"Shipper: ",
+    "Consignee":"Consignee: ",
+    "Tractor":"Tractor: ",
+    "Trailer": "Trailer: ",
+    "Date":"Date: ",
+    "Type":"Type: ",
+    "Select_Trip":"Select Trip: "
+    
+
+  },
+
+  "Messages":{
+    "Place_Holder" :"Type a Message"
+
+  }
+
+
+
+}

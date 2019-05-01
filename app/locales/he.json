@@ -1,0 +1,205 @@
+﻿{
+  "Home": {
+    "load_No": "Sendung #: ",
+    "Shipper": "Absender: ",
+    "Consignee": "Empfänger: ",
+    "LastStop": "Letzter Halt: ",
+    "NextStop": "Nächster Halt:",
+    "Tractor": "Zugmaschine: ",
+    "Trailer": "Anhänger:",
+    "Type":"Art: ",
+    "Status":"Status: ",
+    "Previous_Location":"Bisherige Ort: ",
+    "Location":"Ort: ",
+    "Current_Location":"Aktueller Ort: ",
+    "Miles":"Meilen: ",
+    "Miles_Type":"Zustand: ",
+    "Rate":"Bewertung: ",
+    "Pickup_No":"Abhol #: ",
+    "Driving":"Fahren ",
+    "On_Duty":"Im Dienst ",
+    "btn_Complete":"Komplett",
+    "btn_Comment":"Kommentar",
+    "btn_Edit":"Bearbeiten",
+    "PendingStatus": "Wartend",
+    "CompletedStatus": "Fertig",
+    "Loaded_Miles": "BELADEN",
+    "Empty_MIles": "LEER",
+    "Mark_Check_Call_Msg":"Möchten Sie diesen Überprüfungsabruf wirklich abschließen?",
+    "Confirmation":"Bestätigung",
+    "Update_Trailer_Message":"Sind Sie sicher, dass Sie den Trailer aktualisieren möchten?",
+    "Mark_Check_Call_Success_Msg":"Checkcall wurde erfolgreich markiert.",
+    "New_Check_Call_Save_Msg": "Überprüfen Sie Anruf erfolgreich gespeichert.",
+    "Del_Product_Msg":"Sind Sie sicher, dass Sie dieses Produkt entfernen möchten?",
+    "Drop_Trailer_Msg":"Sind Sie sicher, dass Sie Trailer löschen möchten?",
+    "Drop_Loaded_Trailer_Msg": "Sind Sie sicher, dass Sie Loaded Trailer bei Delivery löschen möchten?",
+    "Drop_Empty_Trailer_Msg":"Sind Sie sicher, dass Sie einen leeren Trailer löschen möchten?",
+    "btn_Save":"Sparen",
+    "btn_Cancel":"Stornieren",
+    "btn_Drop_Empty_Trailer":"Drop leeren Anhanger",
+
+
+    "btn_Drop_Trailer":"Anhänger fallen lassen",
+
+    "btn_Drop_Loaded_Trailer":"Drop Loaded Anhanger",
+
+    "btn_Signature":"Unterschrift",
+    "btn_Attach_Doc":"Dokument anhängen",
+    "Msg_Save_Document":"Möchten Sie das Dokument wirklich speichern?"
+
+
+
+
+  },
+   "Drawer": {
+    "Trips": "Touren",
+    "Schedule":"Zeitplan",
+    "Logout":"Abmelden"
+
+  },
+
+ "Signature": {
+    "btn_Save": "Sparen",
+    "btn_Reset":"Zurücksetzen"
+    
+
+  },
+
+   "HOS": {
+    "Cycle_Duty_Hrs": "Wochenarbeitsstunden: ",
+    "Daily_Duty_Hrs":"Tagesarbeitsstunden: ",
+    "Driver_Time_Hrs":"Fahrtzeit Std: ",
+    "As_On":"Am Datum: ",
+
+    "Cycle_Duty_Hrs_Used":"Verbrauchte Wochenarbeitsstunden: ",
+    "Daily_Duty_Hrs_Used":"Verbrauchte Tagesarbeitsstunden: ",
+    "Driver_Available_Hrs":"Verfügbare Fahrtzeit: ",
+    "Cycle_Avaialble_Hrs":"Zyklus Verfügbar Std: ",
+    "Pickup_Second_Day":"Verfügbare Wochenarbe: "
+
+  },
+  
+
+  "Launch": {
+    "Home": "Übersicht",
+    "CheckCalls":"Auftrag hinzufügen",
+
+    "Messages":"Mitteilungen",
+    "HOS":"Dienstübersicht",
+
+    "Schedule":"Zeitplan",
+    "EditCheckCall": "Bearbeiten Auftrag hinzufügen",
+
+    "Trips":"Touren",
+    "Trip_Detail":"Reisedetails",
+    "CheckCall":"Auftrag hinzufügen",
+    "Check_Call_Details":"Auftragdetails überprüfen",
+    "Add_Signature":"Unterschrift hinzufügen",
+    "Add_Document":"Dokument anhängen",
+    "View_Doc_Title":"View Pic/Doc"
+
+
+
+  },
+
+"Login":{
+
+  "btn_Sign_In":"Anmelden",
+  "UserName":"Benutzername",
+  "Password":"Passwort",
+  "msg_Invalid":"Ungültiger Benutzername oder Passwort"
+
+ },
+"Register":{
+
+  "btn_Register":"Gerät registrieren"
+
+ },
+  "EditCheckCall": {
+    "Type": "Art",
+    "Wait_Time":"Warten Zeit: ",
+    "Address":"Adresse: ",
+    "btn_Add_Product":"Produkt hinzufügen",
+    "Product": "Produkt",
+    "Pieces":"Anzahl",
+    "Weight":"Gewicht",
+    "Save_CheckCall":"Sparen Anruf überprüfen",
+
+    "Save":"Sparen",
+    "Cancel":"Stornieren",
+    "Add_Product":"Hinzufügen"
+
+
+  },
+
+
+ "AddCheckCall": {
+    "Type": "Art",
+    "Wait_Time":"Warten Zeit: ",
+    "Address":"Adresse: ",
+    "btn_Add_Product":"Produkt hinzufügen",
+
+    "Product": "Produkt",
+    "Pieces":"Anzahl",
+    "Weight":"Gewicht",
+    "Save_CheckCall":"Auftrag speichern",
+    "Save":"Sparen",
+    "Cancel":"Stornieren",
+    "Street": "Straße",
+    "City":"Stadt",
+    "State":"Zustand",
+    "Zip":"Postleitzahl",
+    "Select_Product":"Ausgewähltes Produkt",
+"Select_Date":"Datum auswählen",
+
+    "Select_State":"Staat wählen",
+    "Select_Type":"Art auswählen"
+
+
+  },
+
+ "CheckCallDetails": {
+    "Schedule_Date": "Zeitplan Datum: ",
+    "Tractor_No":"Zugmaschine #: ",
+    "Trailer_No":"Anhänger #: ",
+    "Check_Call_Date":"Auftragsdatum: ",
+    "Load_No": "Sendung #: ",
+    "Type":"ORT: ",
+    "Previous_Location":"Bisherige Ort: ",
+    
+    "Current_Location":"Aktueller Ort: ",
+    "Miles_Type":"Zustand: ",
+    "btn_Edit":"Bearbeiten",
+    "Select_Date":"Datum auswählen",
+    "btn_Complete":"Komplett",
+    "Error":"Etwas ist schief gelaufen. Bitte versuche es später erneut. Vielen Dank!",
+    "PickupNo":"Pickup #",
+    "DeliveryNo":"Delivery #",
+    "PickupDetail":"Pickup Instruction",
+    "DeliveryDetail":"Delivery Instruction",
+    "PickupCustomer":"Pickup Customer",
+    "DeliveryCustomer":"Delivery Customer",
+    "PickupDate":"Pickup Date",
+    "DeliveryDate":"Delivery Date"
+
+
+  },
+   "CheckCallList": {
+    "Load_No": "Sendung #: ",
+    "Shipper":"Absender: ",
+    "Consignee":"Empfänger: ",
+    "Tractor":"Zugmaschine: ",
+    "Trailer": "Anhänger: ",
+    "Select_Trip":"Wählen Sie Reise: ",
+    "Date":"Datum: ",
+    "Type":"Art: "
+
+    
+
+  },
+  "Messages":{
+    "Place_Holder" :"Text eingeben…"
+
+  }
+
+}

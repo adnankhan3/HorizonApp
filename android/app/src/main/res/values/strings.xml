@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">UNJbaCDZPwK0ltpBK_HHeIZIBZyZ2871f2ad-304a-497e-9386-036b580f420a</string>
+    <string name="app_name">HorizonGO</string>
+</resources>
